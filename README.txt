@@ -14,4 +14,4 @@ https://link.springer.com/chapter/10.1007/978-3-319-94544-6_9.
 
 the GAN implementation produced reasonable results.
 
-https://github.com/Depresivna-ryza/image-recoloring-gan/blob/master/final_files/final_model_architecture.png?raw=true
+![Image](https://github.com/Depresivna-ryza/image-recoloring-gan/blob/master/final_files/final_model_architecture.png?raw=true)
